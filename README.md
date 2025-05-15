@@ -28,8 +28,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Framer](https://img.shields.io/badge/-Framer-black?style=flat-square&logo=framer)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva)
 
 ---
 
